@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I am a Full-stack developer</h1>
+<h1 align="center">Hi 👋, I am a Senior AI Software Engineer & Full-Stack Platform Architect</h1>
 
 
 
 
-👨🏼‍💻 Skilled Software Architect and Engineer with over 10 years of experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
+👨‍💻 Senior AI Software Engineer & Full-Stack Platform Architect with 8+ years of experience building scalable enterprise systems across AI, SaaS, fintech, supply chain, and manufacturing domains.
 
-🎯 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
+🤖 Specialized in Generative AI, multi-agent systems, intelligent automation, and cloud-native architectures. Experienced in developing AI-powered applications using OpenAI GPT, Claude, Gemini, LLaMA, LangChain, LangGraph, MCP, and modern distributed systems.
 
-🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
+⚙️ Strong expertise in Python, FastAPI, Node.js, .NET, PostgreSQL, Spark, AWS, Azure, Docker, Kubernetes, and microservices architecture. Passionate about designing production-grade platforms, workflow orchestration systems, and large-scale data processing solutions.
+
+🚀 Currently leading development of enterprise AI platforms, delivering metadata-driven architectures, graph-based pipeline orchestration, automated security review systems, and intelligent developer productivity tools.
+
+🎯 I enjoy solving complex engineering challenges, building scalable software, and transforming innovative ideas into reliable products that drive measurable business impact.
 
 <h3 align="left">Technologies and tools I enjoyed:</h3>
 <p align="left"> 
